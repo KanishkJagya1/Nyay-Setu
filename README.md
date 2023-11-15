@@ -156,5 +156,4 @@ When a user sets alarms using the status indicator, you'll be notified about the
 **Communication with Users:**
 You can communicate with users directly through the app. If a user has questions or needs assistance, you can send messages to address their concerns. For example, if a user is concerned about a trial, you can offer guidance and support by providing information about the legal process or connecting them with suitable lawyers.
 
-As an admin on Nyay Setu, you play a vital role in ensuring that users receive the best possible legal support. By managing user and case information, communicating with users, and assisting with hearing dates and status indicators, you contribute to a smoother and more informed legal journey for those who rely on Nyay Setu. If you have any questions or encounter issues while using the admin features, feel free to contact our support team for assistance.
 ---
